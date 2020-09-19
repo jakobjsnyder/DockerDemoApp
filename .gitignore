@@ -1,0 +1,4 @@
+/.vs
+/DockerDemoApp/bin
+/DockerDemoApp/obj
+/DockerDemoApp/DockerDemoApp.csproj.user
