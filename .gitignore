@@ -2,3 +2,7 @@
 /DockerDemoApp/.vs
 **/bin
 **/obj
+/DockerDemoApp/DockerDemoApp/Properties/PublishProfiles/Azure Container Registry.pubxml
+/DockerDemoApp/DockerDemoApp/Properties/PublishProfiles/Azure Container Registry.pubxml.user
+/DockerDemoApp/DockerDemoApp/Properties/PublishProfiles/DockerDemoAppService-Containers.pubxml
+/DockerDemoApp/DockerDemoApp/Properties/PublishProfiles/DockerDemoAppService-Containers.pubxml.user
